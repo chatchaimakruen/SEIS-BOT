@@ -1,1 +1,0 @@
-# SEIS-BOT
