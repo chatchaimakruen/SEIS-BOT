@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "859309523358",
+    "firebase_url": "https://botyim-sawcua.firebaseio.com",
+    "project_id": "botyim-sawcua",
+    "storage_bucket": "botyim-sawcua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859309523358:android:cd1919517cbb49fadfd68f",
+        "android_client_info": {
+          "package_name": "com.example.botyim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859309523358-7tr97kkrd611eh7mevachdd1oc28fn9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuW3bXrrer8rFJsqPDB7G1SaAOqjYnBH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859309523358-7tr97kkrd611eh7mevachdd1oc28fn9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
